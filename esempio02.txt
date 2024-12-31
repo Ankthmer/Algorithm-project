@@ -1,0 +1,11 @@
+10 15 6 10 5
+Emumwen 76 0.287 4 3 Ranucci 0.921 Battelli 0.649 Siapian 0.399
+Fralassi 62 0.486 0 2 Battelli 0.683 Orlando 0.436
+DiMario 83 0.405 0 2 Orlando 0.002 Bassano 0.297
+Saladino 84 0.420 0 1 Ranucci 0.998
+Battelli 76 0.642 0 3 Siapian 0.108 Fralassi 0.683 Emumwen 0.649
+Latini 23 0.755 0 1 Ranucci 0.003
+Siapian 15 0.955 0 2 Battelli 0.108 Emumwen 0.399
+Orlando 78 0.719 0 2 DiMario 0.002 Fralassi 0.436
+Ranucci 25 0.757 0 3 Emumwen 0.921 Saladino 0.998 Latini 0.003
+Bassano 16 0.725 0 1 DiMario 0.297

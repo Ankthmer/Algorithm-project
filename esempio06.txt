@@ -1,0 +1,51 @@
+50 25 9 10 15
+DeLuca 50 0.209 6 3 Guzman 0.195 Giorgetti 0.002 Tronconi 0.963
+Grossi 16 0.642 0 3 Focaccia 0.052 Toader 0.073 Blasi 0.126
+Carbone 86 0.274 0 2 Graffiedi 0.001 Garofalo 0.022
+Gallo 62 0.454 0 4 Wozniczka 0.102 Zecchini 0.001 Cirillo 0.254 Soldati 0.008
+Mamone 17 0.449 0 2 Battelli 0.180 Donati 0.028
+Longo 27 0.917 0 4 Romanotti 0.031 Zecchini 0.220 Antonelli 0.001 Passitto 0.089
+Giorgetti 38 0.866 0 3 Lattanzi 0.042 Tronconi 0.701 DeLuca 0.002
+Toader 91 0.998 0 2 Disabato 0.960 Grossi 0.073
+DiMaio 3 0.188 0 2 Bernardi 0.870 Urbini 0.851
+Tarnogrodzki 28 0.188 0 2 Coluccia 0.295 Monti 0.232
+Brunetti 46 0.834 0 3 Bernardi 0.706 Cirillo 0.464 Ortu 0.162
+Romanotti 54 0.376 0 3 Rizzo 0.454 Antonelli 0.557 Longo 0.031
+Donati 21 0.860 0 6 Guzman 0.443 Neri 0.000 Zecchini 0.261 Medda 0.394 Garofalo 0.115 Mamone 0.028
+Cirillo 50 0.058 0 4 Romagnoli 0.955 Urbini 0.256 Brunetti 0.464 Gallo 0.254
+Iatalese 87 0.601 0 2 Minuz 0.000 Graffiedi 0.406
+Bernardi 96 0.430 0 4 Soldati 0.009 Garofalo 0.167 DiMaio 0.870 Brunetti 0.706
+Luzzi 44 0.777 0 3 Colombo 0.002 Monti 0.818 Neri 0.425
+Romagnoli 61 0.597 0 2 Focaccia 0.000 Cirillo 0.955
+Giordano 13 0.337 0 2 Rizzo 0.312 Ortu 0.203
+Disabato 81 0.577 0 5 Passitto 0.000 Garofalo 0.318 Neri 0.000 Urbini 0.977 Toader 0.960
+Monti 54 0.035 0 3 Pacini 0.085 Luzzi 0.818 Tarnogrodzki 0.232
+Lattanzi 85 0.146 0 3 Minuz 0.003 Dotti 0.079 Giorgetti 0.042
+Medda 30 0.178 0 3 Tronconi 0.000 Lacerenza 0.005 Donati 0.394
+Callegarini 87 0.730 0 5 Battelli 0.096 Celotti 0.051 Focaccia 0.008 Lacerenza 0.433 Tronconi 0.000
+Soldati 90 0.546 0 3 Donatantonio 0.358 Bernardi 0.009 Gallo 0.008
+Zecchini 45 0.992 0 4 Zurzolo 0.004 Gallo 0.001 Donati 0.261 Longo 0.220
+Blasi 35 0.879 0 2 Colombo 0.995 Grossi 0.126
+Tronconi 66 0.835 0 4 Medda 0.000 Giorgetti 0.701 DeLuca 0.963 Callegarini 0.000
+Neri 47 0.869 0 4 Passitto 0.333 Donati 0.000 Luzzi 0.425 Disabato 0.000
+Garofalo 68 0.264 0 4 Disabato 0.318 Bernardi 0.167 Carbone 0.022 Donati 0.115
+Urbini 87 0.096 0 3 DiMaio 0.851 Disabato 0.977 Cirillo 0.256
+Passitto 45 0.857 0 5 Ortu 0.224 Wozniczka 0.258 Disabato 0.000 Longo 0.089 Neri 0.333
+Donatantonio 60 0.067 0 3 Coluccia 0.028 Dotti 0.838 Soldati 0.358
+Graffiedi 76 0.294 0 2 Carbone 0.001 Iatalese 0.406
+Focaccia 3 0.893 0 3 Grossi 0.052 Romagnoli 0.000 Callegarini 0.008
+Antonelli 25 0.292 0 3 Lacerenza 0.348 Romanotti 0.557 Longo 0.001
+Zurzolo 43 0.808 0 1 Zecchini 0.004
+Minuz 16 0.441 0 2 Lattanzi 0.003 Iatalese 0.000
+Battelli 57 0.760 0 2 Mamone 0.180 Callegarini 0.096
+Coluccia 27 0.162 0 3 Lacerenza 0.002 Donatantonio 0.028 Tarnogrodzki 0.295
+Celotti 19 0.865 0 2 Wozniczka 0.305 Callegarini 0.051
+Wozniczka 77 0.002 0 5 Ferri 0.610 Lacerenza 0.032 Celotti 0.305 Gallo 0.102 Passitto 0.258
+Dotti 78 0.001 0 2 Donatantonio 0.838 Lattanzi 0.079
+Lacerenza 51 0.769 0 6 Colombo 0.191 Medda 0.005 Wozniczka 0.032 Antonelli 0.348 Coluccia 0.002 Callegarini 0.433
+Ortu 9 0.535 0 3 Giordano 0.203 Passitto 0.224 Brunetti 0.162
+Guzman 5 0.034 0 2 DeLuca 0.195 Donati 0.443
+Ferri 32 0.126 0 1 Wozniczka 0.610
+Pacini 29 0.888 0 1 Monti 0.085
+Rizzo 70 0.292 0 2 Romanotti 0.454 Giordano 0.312
+Colombo 52 0.748 0 3 Luzzi 0.002 Blasi 0.995 Lacerenza 0.191

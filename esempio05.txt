@@ -1,0 +1,51 @@
+50 25 6 6 10
+Caruso 90 0.990 1 1 Sassetti 0.048
+Palumbo 45 0.016 0 2 DeFilippis 0.000 Accadia 0.264
+Tranquilli 29 0.061 0 3 Rizzelli 0.009 Medda 0.207 Niane 0.432
+Accadia 18 0.100 0 3 Niane 0.878 Piazza 0.124 Palumbo 0.264
+Ranfi 40 0.862 0 4 Fontanari 0.011 Nurul 0.056 Boes 0.652 Graffiedi 0.069
+Niane 85 0.368 0 4 Laurenti 0.391 Abu 0.423 Tranquilli 0.432 Accadia 0.878
+Ducci 85 0.041 0 4 Ciarla 0.000 Fontolan 0.041 Vitor 0.521 Garofalo 0.270
+Labella 39 0.246 0 1 Emumwen 0.068
+Nurul 61 0.805 0 6 Cerilli 0.083 DeCataldo 0.132 Luzzi 0.981 Valvano 0.000 Carpi 0.557 Ranfi 0.056
+Carpi 40 0.501 0 4 Porcu 0.759 Gallio 0.253 Dolciotti 0.005 Nurul 0.557
+Toso 39 0.948 0 1 Gallio 0.434
+D'Alessandro 19 0.296 0 4 Medda 0.513 Garofalo 0.944 Cerilli 0.001 Gallio 0.725
+Ruggiero 74 0.913 0 4 Piazza 0.057 Hajji 0.741 Rizzelli 0.045 Fontolan 0.000
+DeFilippis 37 0.147 0 3 Fontolan 0.023 Boes 0.006 Palumbo 0.000
+Cerilli 53 0.550 0 2 D'Alessandro 0.001 Nurul 0.083
+Costantino 39 0.164 0 1 Vitor 0.001
+Dolciotti 95 0.438 0 3 Grasso 0.322 Fontolan 0.485 Carpi 0.005
+Marano 7 0.887 0 2 Abu 0.003 Minuz 0.879
+Verastegui 43 0.977 0 3 Gallio 0.686 Bento 0.269 Harroud 0.081
+Abu 84 0.490 0 5 Porcu 0.058 Bonomo 0.010 Harroud 0.450 Marano 0.003 Niane 0.423
+Monsone 71 0.001 0 1 DeCataldo 0.614
+Bonomo 79 0.014 0 2 Harroud 0.027 Abu 0.010
+Rizzelli 70 0.272 0 5 Gallio 0.212 Fontanari 0.605 Boes 0.037 Tranquilli 0.009 Ruggiero 0.045
+Fontanari 49 0.201 0 2 Ranfi 0.011 Rizzelli 0.605
+Boes 81 0.167 0 5 Hajji 0.137 D'Achille 0.830 DeFilippis 0.006 Ranfi 0.652 Rizzelli 0.037
+Medda 39 0.672 0 3 Finiti 0.896 D'Alessandro 0.513 Tranquilli 0.207
+Graffiedi 81 0.862 0 3 D'Achille 0.000 Harroud 0.036 Ranfi 0.069
+Harroud 42 0.967 0 6 Rosso 0.005 Emumwen 0.265 Bonomo 0.027 Graffiedi 0.036 Verastegui 0.081 Abu 0.450
+Napolitano 15 0.224 0 1 Piazza 0.884
+Ciarla 39 0.399 0 2 DiCarlo 0.662 Ducci 0.000
+Sassetti 66 0.982 0 2 Garofalo 0.014 Caruso 0.048
+D'Achille 35 0.458 0 3 Emumwen 0.277 Graffiedi 0.000 Boes 0.830
+Grasso 41 0.468 0 2 Finiti 0.063 Dolciotti 0.322
+Hajji 40 0.168 0 2 Boes 0.137 Ruggiero 0.741
+Porcu 20 0.028 0 2 Carpi 0.759 Abu 0.058
+Finiti 88 0.573 0 4 Rosso 0.005 Emumwen 0.016 Grasso 0.063 Medda 0.896
+Valvano 56 0.647 0 2 Minuz 0.005 Nurul 0.000
+Gallio 40 0.690 0 5 Toso 0.434 Carpi 0.253 Verastegui 0.686 Rizzelli 0.212 D'Alessandro 0.725
+DiCarlo 81 0.351 0 1 Ciarla 0.662
+Rosso 70 0.871 0 3 Emumwen 0.814 Finiti 0.005 Harroud 0.005
+Minuz 26 0.910 0 2 Valvano 0.005 Marano 0.879
+Luzzi 55 0.887 0 2 Vitor 0.015 Nurul 0.981
+Fontolan 54 0.724 0 5 Piazza 0.002 Ducci 0.041 DeFilippis 0.023 Dolciotti 0.485 Ruggiero 0.000
+Piazza 92 0.144 0 5 Laurenti 0.049 Ruggiero 0.057 Accadia 0.124 Napolitano 0.884 Fontolan 0.002
+Bento 48 0.788 0 2 Emumwen 0.000 Verastegui 0.269
+Vitor 50 0.195 0 3 Ducci 0.521 Costantino 0.001 Luzzi 0.015
+Emumwen 91 0.011 0 6 Labella 0.068 Rosso 0.814 D'Achille 0.277 Finiti 0.016 Harroud 0.265 Bento 0.000
+Laurenti 84 0.243 0 3 DeCataldo 0.004 Niane 0.391 Piazza 0.049
+DeCataldo 69 0.722 0 3 Nurul 0.132 Monsone 0.614 Laurenti 0.004
+Garofalo 87 0.805 0 3 D'Alessandro 0.944 Sassetti 0.014 Ducci 0.270

@@ -1,0 +1,11 @@
+10 15 4 6 3
+Tarozzi 90 0.456 1 6 Mangano 0.513 Bartolucci 0.000 Zak 0.124 Baiano 0.002 Canichella 0.000 Colle 0.001
+Mangano 27 0.433 0 5 Zavalloni 0.000 Colle 0.829 Baiano 0.210 Bartolucci 0.003 Tarozzi 0.513
+Ranfi 63 0.250 0 2 Zak 0.772 Bartolucci 0.003
+Mattioni 69 0.132 0 2 Bartolucci 0.085 Zavalloni 0.033
+Bartolucci 29 0.308 0 7 Canichella 0.959 Zavalloni 0.817 Zak 0.055 Mattioni 0.085 Tarozzi 0.000 Ranfi 0.003 Mangano 0.003
+Zak 58 0.365 0 7 Canichella 0.083 Baiano 0.001 Zavalloni 0.000 Colle 0.002 Ranfi 0.772 Tarozzi 0.124 Bartolucci 0.055
+Baiano 8 0.173 0 6 Colle 0.791 Canichella 0.063 Zavalloni 0.089 Mangano 0.210 Tarozzi 0.002 Zak 0.001
+Colle 44 0.459 0 4 Baiano 0.791 Mangano 0.829 Zak 0.002 Tarozzi 0.001
+Canichella 25 0.173 0 5 Zavalloni 0.014 Baiano 0.063 Bartolucci 0.959 Zak 0.083 Tarozzi 0.000
+Zavalloni 51 0.578 0 6 Mangano 0.000 Baiano 0.089 Bartolucci 0.817 Canichella 0.014 Mattioni 0.033 Zak 0.000

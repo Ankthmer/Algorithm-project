@@ -1,0 +1,51 @@
+50 25 6 6 10
+Boubaker 72 0.100 4 4 Lelli 0.153 Forcina 0.013 Turci 0.124 Fiore 0.685
+Gentile 70 0.562 0 7 Leone 0.002 Carucci 0.645 Toader 0.510 Amato 0.517 Mincuzzi 0.445 Scardone 0.717 Alam 0.000
+Naci 8 0.770 0 5 Castaldo 0.095 Alam 0.156 Leone 0.082 Fiore 0.053 Carucci 0.293
+Guido 16 0.185 0 6 Steffanina 0.840 Ruggiero 0.000 Giorgetti 0.082 Ferrarese 0.056 Turci 0.339 Lelli 0.210
+Parini 45 0.971 0 6 Toader 0.166 Ferro 0.000 Giorgetti 0.752 Carucci 0.210 Placidi 0.603 Lucani 0.784
+Baronti 15 0.680 0 9 Lelli 0.129 Vandenbulcke 0.093 Bernardi 0.948 Lucani 0.056 Scardone 0.016 Turci 0.208 Forcina 0.747 Pelliccia 0.094 Santana 0.740
+Vandenbulcke 81 0.577 0 4 Giorgetti 0.000 DeMatteo 0.225 Lucani 0.812 Baronti 0.093
+Papaleo 62 0.834 0 5 Mazza 0.032 Palma 0.124 Gatti 0.000 Scardone 0.896 Amato 0.003
+Ahmed 63 0.003 0 4 Leonetti 0.010 Bernardi 0.375 Giorgetti 0.184 Lombardo 0.007
+Toader 56 0.676 0 3 Soldati 0.410 Parini 0.166 Gentile 0.510
+Cerilli 58 0.620 0 4 Mincuzzi 0.057 Amato 0.000 Sanna 0.173 Lelli 0.192
+Emili 28 0.343 0 4 Giura 0.207 Carucci 0.019 Gatti 0.088 Bianchini 0.687
+Alam 68 0.675 0 8 Ruggiero 0.064 Soldati 0.010 Palma 0.057 Amato 0.200 Lombardo 0.678 Mazza 0.503 Naci 0.156 Gentile 0.000
+Ferro 65 0.525 0 8 Montevecchi 0.121 Gatto 0.752 Bianchini 0.698 Mincuzzi 0.655 Giorgetti 0.004 Pelliccia 0.433 Gatti 0.121 Parini 0.000
+Toso 96 0.968 0 4 DeMatteo 0.001 Leone 0.626 Giorgetti 0.050 Leonetti 0.150
+Turci 15 0.361 0 4 Montevecchi 0.974 Boubaker 0.124 Baronti 0.208 Guido 0.339
+Castaldo 54 0.042 0 1 Naci 0.095
+Carucci 66 0.202 0 6 Scardone 0.100 Sanna 0.000 Gentile 0.645 Emili 0.019 Naci 0.293 Parini 0.210
+DiPasquale 40 0.031 0 3 Lombardo 0.250 Leone 0.578 Fasano 0.032
+Fiore 16 0.855 0 8 Sanna 0.403 Giorgetti 0.210 Ruggiero 0.180 Mazza 0.000 Palma 0.502 Ferrarese 0.001 Boubaker 0.685 Naci 0.053
+Leonetti 54 0.201 0 9 Forcina 0.101 Mazza 0.233 Scardone 0.595 Gatto 0.202 Fasano 0.082 Giura 0.011 Palma 0.060 Ahmed 0.010 Toso 0.150
+Leone 2 0.014 0 7 Giorgetti 0.528 Ruggiero 0.915 Pelliccia 0.075 Gentile 0.002 Naci 0.082 DiPasquale 0.578 Toso 0.626
+Lucchi 69 0.473 0 5 Placidi 0.075 Lucani 0.293 Pelliccia 0.001 Mazza 0.940 Bianchini 0.045
+Placidi 64 0.023 0 3 Sanna 0.397 Lucchi 0.075 Parini 0.603
+Pelliccia 77 0.203 0 6 Ruggiero 0.156 Amato 0.000 Lucchi 0.001 Leone 0.075 Ferro 0.433 Baronti 0.094
+Lelli 66 0.981 0 7 Giura 0.515 Ferrarese 0.002 Gatti 0.489 Boubaker 0.153 Baronti 0.129 Cerilli 0.192 Guido 0.210
+Montevecchi 56 0.554 0 5 Fasano 0.045 Gatto 0.323 Giorgetti 0.034 Turci 0.974 Ferro 0.121
+Amato 49 0.819 0 9 Lucani 0.933 Gatto 0.429 Bernardi 0.017 DeFreitas 0.509 Gentile 0.517 Cerilli 0.000 Pelliccia 0.000 Alam 0.200 Papaleo 0.003
+Gatto 55 0.358 0 5 Soldati 0.310 Amato 0.429 Ferro 0.752 Montevecchi 0.323 Leonetti 0.202
+Mazza 10 0.340 0 9 Steffanina 0.125 Bianchini 0.043 Palma 0.260 Giura 0.174 Papaleo 0.032 Leonetti 0.233 Lucchi 0.940 Fiore 0.000 Alam 0.503
+Ruggiero 41 0.593 0 7 DeFreitas 0.198 Santana 0.630 Alam 0.064 Guido 0.000 Fiore 0.180 Leone 0.915 Pelliccia 0.156
+Forcina 1 0.067 0 5 Fasano 0.226 Ferrarese 0.026 Boubaker 0.013 Leonetti 0.101 Baronti 0.747
+Fasano 39 0.030 0 7 Lombardo 0.884 DeMatteo 0.008 Scardone 0.274 Montevecchi 0.045 Forcina 0.226 DiPasquale 0.032 Leonetti 0.082
+Palma 80 0.216 0 7 Ferrarese 0.003 Sanna 0.965 Papaleo 0.124 Fiore 0.502 Mazza 0.260 Alam 0.057 Leonetti 0.060
+Bernardi 57 0.039 0 5 Lucani 0.066 Soldati 0.593 Baronti 0.948 Amato 0.017 Ahmed 0.375
+Giura 73 0.041 0 4 Lelli 0.515 Emili 0.207 Leonetti 0.011 Mazza 0.174
+Bianchini 79 0.341 0 4 Ferro 0.698 Mazza 0.043 Emili 0.687 Lucchi 0.045
+DeMatteo 74 0.849 0 8 Gatti 0.579 Ferrarese 0.070 Mincuzzi 0.553 Lombardo 0.123 Santana 0.133 Toso 0.001 Vandenbulcke 0.225 Fasano 0.008
+Ferrarese 39 0.668 0 11 Scardone 0.069 Gatti 0.266 Lombardo 0.594 Lucani 0.297 Santana 0.709 DeMatteo 0.070 Palma 0.003 Lelli 0.002 Guido 0.056 Fiore 0.001 Forcina 0.026
+Gatti 67 0.642 0 8 Santana 0.002 Giorgetti 0.023 DeMatteo 0.579 Ferrarese 0.266 Papaleo 0.000 Emili 0.088 Lelli 0.489 Ferro 0.121
+Lucani 53 0.498 0 9 Sanna 0.002 Santana 0.074 Amato 0.933 Lucchi 0.293 Baronti 0.056 Bernardi 0.066 Ferrarese 0.297 Vandenbulcke 0.812 Parini 0.784
+Soldati 52 0.009 0 6 DeFreitas 0.000 Steffanina 0.019 Gatto 0.310 Alam 0.010 Toader 0.410 Bernardi 0.593
+Sanna 9 0.871 0 6 Fiore 0.403 Placidi 0.397 Palma 0.965 Lucani 0.002 Cerilli 0.173 Carucci 0.000
+DeFreitas 68 0.091 0 4 Santana 0.129 Soldati 0.000 Ruggiero 0.198 Amato 0.509
+Scardone 3 0.836 0 8 Mincuzzi 0.042 Carucci 0.100 Ferrarese 0.069 Baronti 0.016 Leonetti 0.595 Papaleo 0.896 Gentile 0.717 Fasano 0.274
+Santana 85 0.616 0 7 Gatti 0.002 DeFreitas 0.129 Lucani 0.074 DeMatteo 0.133 Baronti 0.740 Ferrarese 0.709 Ruggiero 0.630
+Giorgetti 72 0.514 0 11 Lombardo 0.210 Vandenbulcke 0.000 Fiore 0.210 Guido 0.082 Gatti 0.023 Leone 0.528 Ahmed 0.184 Ferro 0.004 Parini 0.752 Toso 0.050 Montevecchi 0.034
+Mincuzzi 38 0.504 0 5 Scardone 0.042 Cerilli 0.057 DeMatteo 0.553 Gentile 0.445 Ferro 0.655
+Lombardo 13 0.602 0 7 DiPasquale 0.250 Fasano 0.884 DeMatteo 0.123 Ferrarese 0.594 Giorgetti 0.210 Alam 0.678 Ahmed 0.007
+Steffanina 51 0.244 0 3 Guido 0.840 Mazza 0.125 Soldati 0.019

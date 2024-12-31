@@ -1,0 +1,11 @@
+10 15 4 6 3
+Galli 65 0.161 3 4 Pal 0.003 Piersanti 0.004 Bazhanova 0.060 Fiore 0.894
+Bernacci 30 0.383 0 2 Nurul 0.406 Vaccaro 0.002
+Pracucci 17 0.338 0 2 Linzi 0.050 Fiore 0.929
+Linzi 71 0.056 0 1 Pracucci 0.050
+Vaccaro 52 0.862 0 2 Piersanti 0.750 Bernacci 0.002
+Fiore 77 0.881 0 3 Piersanti 0.008 Pracucci 0.929 Galli 0.894
+Nurul 58 0.238 0 1 Bernacci 0.406
+Bazhanova 56 0.331 0 1 Galli 0.060
+Piersanti 15 0.629 0 3 Vaccaro 0.750 Fiore 0.008 Galli 0.004
+Pal 87 0.113 0 1 Galli 0.003

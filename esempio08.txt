@@ -1,0 +1,51 @@
+50 25 9 10 15
+Bassani 3 0.713 8 6 Carpi 0.198 Moretti 0.492 Ferrante 0.192 Assal 0.952 Giorgetti 0.743 Marino 0.592
+Balta 70 0.020 0 5 Urbini 0.000 Marino 0.113 Mauro 0.290 Siracusa 0.672 Kovacs 0.006
+Usami 52 0.270 0 5 Cheikh 0.586 Tioni 0.970 Gigante 0.154 Conti 0.130 Bernacci 0.731
+Zanella 16 0.030 0 3 Tarozzi 0.294 Sannio 0.003 Labella 0.009
+Gigante 89 0.222 0 6 Sannio 0.201 Brunetto 0.000 Sposato 0.040 Ossati 0.079 Kovacs 0.205 Usami 0.154
+Planta 50 0.685 0 4 Bentivegna 0.723 Baiano 0.183 Boubaker 0.044 Giorgetti 0.106
+Ferri 7 0.036 0 5 Minestrini 0.935 Siracusa 0.823 Vitale 0.012 Bernacci 0.001 Tarozzi 0.040
+Donnhauser 40 0.170 0 7 Conti 0.001 Marino 0.275 Basili 0.000 Labella 0.428 D'Agapito 0.000 Kovacs 0.036 Brunetto 0.010
+Minestrini 39 0.463 0 7 Basili 0.047 Bernacci 0.451 Casadei 0.275 Errichetti 0.009 Ceccarelli 0.112 Urbini 0.900 Ferri 0.935
+Errichetti 82 0.719 0 7 Kovacs 0.000 Bernacci 0.848 Costante 0.000 Bentivegna 0.048 Urbini 0.323 Assal 0.001 Minestrini 0.009
+Ceccarelli 98 0.426 0 6 Rinaldi 0.003 Assal 0.023 Baiano 0.223 Fraticelli 0.500 Tioni 0.001 Minestrini 0.112
+Succi 68 0.705 0 3 Ferrante 0.761 Pinna 0.000 Marino 0.146
+Carpi 27 0.585 0 5 Urbini 0.427 Boubaker 0.105 Moretti 0.976 Casadei 0.646 Bassani 0.198
+Moretti 22 0.963 0 6 Rinaldi 0.001 Bernacci 0.720 Resende 0.100 Ossati 0.016 Bassani 0.492 Carpi 0.976
+Lucchesini 3 0.190 0 4 Baiano 0.278 Sposato 0.038 D'Agapito 0.001 Labella 0.014
+Pia 90 0.450 0 6 D'Agapito 0.256 Siracusa 0.269 Basili 0.013 Ossati 0.004 Boubaker 0.017 Rinaldi 0.656
+Bellini 97 0.112 0 4 Siracusa 0.499 Cheikh 0.398 Baiano 0.475 Tarozzi 0.208
+Rinaldi 13 0.522 0 8 Resende 0.017 Casadei 0.138 Tioni 0.007 D'Agapito 0.112 Kovacs 0.069 Ceccarelli 0.003 Moretti 0.001 Pia 0.656
+Giorgetti 50 0.801 0 9 Ferrante 0.374 Vitale 0.003 Casadei 0.303 Croce 0.011 Baiano 0.000 Conti 0.443 Costante 0.022 Bassani 0.743 Planta 0.106
+Mauro 61 0.265 0 4 Costante 0.003 Fraticelli 0.018 Boubaker 0.551 Balta 0.290
+Kovacs 16 0.794 0 11 Pinna 0.769 Assal 0.156 Sposato 0.000 Vitale 0.198 Siracusa 0.889 Baiano 0.544 Errichetti 0.000 Donnhauser 0.036 Rinaldi 0.069 Balta 0.006 Gigante 0.205
+Resende 4 0.332 0 5 Ossati 0.000 Siracusa 0.504 Baiano 0.242 Rinaldi 0.017 Moretti 0.100
+Croce 15 0.799 0 3 Bentivegna 0.190 Fraticelli 0.418 Giorgetti 0.011
+Brambilla 36 0.835 0 3 Bernacci 0.031 Cheikh 0.019 Bentivegna 0.498
+Bentivegna 18 0.904 0 10 Pinna 0.875 Vitale 0.548 Tioni 0.968 Costante 0.195 Conti 0.525 Assal 0.241 Planta 0.723 Croce 0.190 Brambilla 0.498 Errichetti 0.048
+Cheikh 98 0.585 0 7 Vitale 0.000 Conti 0.371 Brunetto 0.124 Tioni 0.298 Brambilla 0.019 Usami 0.586 Bellini 0.398
+Sannio 87 0.019 0 5 Boubaker 0.360 Brunetto 0.050 Urbini 0.280 Gigante 0.201 Zanella 0.003
+Delgado 5 0.556 0 2 Assal 0.018 Tarozzi 0.003
+Brunetto 87 0.099 0 6 Costante 0.000 Casadei 0.394 Gigante 0.000 Sannio 0.050 Cheikh 0.124 Donnhauser 0.010
+Tarozzi 40 0.549 0 7 Baiano 0.616 Vitale 0.352 Ossati 0.307 Zanella 0.294 Bellini 0.208 Delgado 0.003 Ferri 0.040
+Tioni 67 0.132 0 8 Casadei 0.004 Baiano 0.170 Conti 0.168 Usami 0.970 Rinaldi 0.007 Bentivegna 0.968 Cheikh 0.298 Ceccarelli 0.001
+Baiano 80 0.606 0 9 Tarozzi 0.616 Lucchesini 0.278 Ceccarelli 0.223 Planta 0.183 Tioni 0.170 Bellini 0.475 Giorgetti 0.000 Kovacs 0.544 Resende 0.242
+Urbini 52 0.362 0 6 Fraticelli 0.000 Carpi 0.427 Balta 0.000 Sannio 0.280 Errichetti 0.323 Minestrini 0.900
+Basili 43 0.997 0 4 Conti 0.019 Minestrini 0.047 Donnhauser 0.000 Pia 0.013
+Costante 88 0.463 0 6 Marino 0.029 Brunetto 0.000 Mauro 0.003 Errichetti 0.000 Bentivegna 0.195 Giorgetti 0.022
+Fraticelli 90 0.674 0 7 Bernacci 0.014 Ferrante 0.051 Sposato 0.370 Croce 0.418 Mauro 0.018 Urbini 0.000 Ceccarelli 0.500
+D'Agapito 67 0.994 0 4 Pia 0.256 Lucchesini 0.001 Donnhauser 0.000 Rinaldi 0.112
+Marino 78 0.077 0 7 Conti 0.675 Pinna 0.013 Donnhauser 0.275 Balta 0.113 Bassani 0.592 Costante 0.029 Succi 0.146
+Ferrante 58 0.059 0 5 Bernacci 0.009 Giorgetti 0.374 Succi 0.761 Bassani 0.192 Fraticelli 0.051
+Casadei 94 0.077 0 8 Conti 0.707 Bernacci 0.556 Tioni 0.004 Rinaldi 0.138 Giorgetti 0.303 Minestrini 0.275 Carpi 0.646 Brunetto 0.394
+Conti 12 0.247 0 11 Labella 0.580 Vitale 0.259 Donnhauser 0.001 Basili 0.019 Marino 0.675 Casadei 0.707 Bentivegna 0.525 Cheikh 0.371 Usami 0.130 Tioni 0.168 Giorgetti 0.443
+Pinna 23 0.347 0 4 Succi 0.000 Kovacs 0.769 Bentivegna 0.875 Marino 0.013
+Assal 18 0.995 0 6 Ceccarelli 0.023 Kovacs 0.156 Delgado 0.018 Bassani 0.952 Bentivegna 0.241 Errichetti 0.001
+Boubaker 92 0.015 0 5 Sannio 0.360 Carpi 0.105 Planta 0.044 Mauro 0.551 Pia 0.017
+Siracusa 9 0.056 0 6 Pia 0.269 Bellini 0.499 Ferri 0.823 Resende 0.504 Balta 0.672 Kovacs 0.889
+Ossati 52 0.047 0 7 Vitale 0.653 Sposato 0.000 Resende 0.000 Gigante 0.079 Moretti 0.016 Pia 0.004 Tarozzi 0.307
+Sposato 90 0.324 0 6 Labella 0.356 Gigante 0.040 Lucchesini 0.038 Ossati 0.000 Kovacs 0.000 Fraticelli 0.370
+Bernacci 94 0.518 0 9 Brambilla 0.031 Fraticelli 0.014 Minestrini 0.451 Ferrante 0.009 Moretti 0.720 Errichetti 0.848 Casadei 0.556 Ferri 0.001 Usami 0.731
+Vitale 60 0.159 0 8 Giorgetti 0.003 Ossati 0.653 Cheikh 0.000 Conti 0.259 Bentivegna 0.548 Kovacs 0.198 Ferri 0.012 Tarozzi 0.352
+Labella 59 0.838 0 5 Sposato 0.356 Donnhauser 0.428 Conti 0.580 Zanella 0.009 Lucchesini 0.014
